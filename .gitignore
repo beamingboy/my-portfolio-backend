@@ -41,7 +41,7 @@ docker-compose.override.yml
 *.pid
 *.seed
 *.data
-**/Dockerfile
+# **/Dockerfile
 
 # Coverage reports
 coverage/
